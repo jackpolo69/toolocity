@@ -1,6 +1,6 @@
 # Toolocity
 
-https://project3js.herokuapp.com/
+https://toolocity.herokuapp.com/
 
 ## Our Concept
 
